@@ -1,0 +1,16 @@
+#instructions {
+  text-align: center;
+  background-color: gold;
+  padding: 20px;
+}
+
+#resultsBoxes {
+    /* display: flex; */
+    /* text-align: center; */
+    display: none;
+}
+
+figure {
+  background-color: burlywood;
+  padding: 20px;
+}
