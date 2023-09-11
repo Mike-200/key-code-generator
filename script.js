@@ -13,5 +13,7 @@ document.addEventListener("keypress", (event) => {
   charCodeValue.textContent = event.charCode;
   resultsBoxes.style.display = "block";
   resultsBoxes.style.display = "flex";
+  resultsBoxes.style.justifyContent = "space-evenly";
   resultsBoxes.style.textAlign = "center";
+  resultsBoxes.style.padding = "50px";
 });
